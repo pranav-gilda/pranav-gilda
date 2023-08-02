@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranav-gilda
-- 👀 I’m interested in learning solidity and many other languages
-- 🌱 I’m currently learning basics of python, SQL and R
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning Cloud Services and AI.
+- 🌱 I’m currently developing my programming skills and getting an insight on real-life IT industry.
+- 💞️ I’m looking to collaborate on machine/deep learning projects!
 - 📫 How to reach me at my mail pranav1gilda@gmail.com !
 
 <!---
