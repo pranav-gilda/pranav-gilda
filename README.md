@@ -8,7 +8,7 @@ Hands-on experience in building NLP pipelines, deploying computer vision models,
 Tackled real-world problems through innovative projects at Columbia, spanning predictive analytics and designing research.
 Delivered impactful results during internships in NLP, computer vision, and data analyst roles.
 - 🌟 Looking Ahead:
-I’m actively seeking a Summer 2024 Internship to apply my skills in a collaborative, fast-paced environment and contribute to impactful projects.
+I’m actively seeking a Summer 2025 Internship to apply my skills in a collaborative, fast-paced environment and contribute to impactful projects.
 Let’s connect and collaborate on exciting data science opportunities!
 - 📫 Reach me at my mail pg2833@columbia.edu !
 
